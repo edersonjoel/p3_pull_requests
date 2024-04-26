@@ -7,7 +7,7 @@
 ############################################
 #################################
 # Ederson Quintero: Pegar tu enlace aquí: 
-
+https://github.com/edersonjoel/p3_pull_requests/blob/28a9ee7a9edf1ebd41cd54d5b68859b87b5fd7e3/edersonquintero.pdf?short_path=b2eacb9
 #################################
 #################################
 # Angélica Ríos: Pegar tu enlace aquí: 
