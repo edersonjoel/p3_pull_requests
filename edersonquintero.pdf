@@ -1,0 +1,21 @@
+1 Definición del problema de negocio
+En el contexto empresarial, los problemas no se limitan a clasificación o regresión. Los desafíos que preocupan a las empresas están relacionados con el negocio y la cuenta de resultados. Estos problemas pueden ser ambiguos, como evitar la pérdida de clientes, aumentar las ventas, minimizar los costos, fidelizar a los clientes, anticipar averías de productos y maquinarias, o gestionar reclamaciones de los clientes.
+La mayor dificultad para un científico de datos es traducir estos problemas empresariales en problemas específicos de regresión, clasificación, segmentación, recomendación, etc. Esto requiere un contacto continuo con el negocio y su problemática.
+En los negocios, un problema es una situación que crea una brecha entre los resultados deseados y los reales. En resumen, la Ciencia de Datos es una herramienta poderosa para abordar los desafíos empresariales y tomar decisiones informadas basadas en datos
+2 ¿Cómo puedo definir un problema de negocio?
+El planteamiento del problema en una empresa es un proceso crucial, ya que permite identificar de manera clara y precisa cuál es la situación que debe ser mejorada o resuelta. Aquí tienes algunos pasos para definir correctamente un problema de negocio:
+Identificar el problema: Lo primero que debemos hacer es identificar el problema en la empresa. Esto implica analizar diferentes áreas como producción, marketing, finanzas, entre otras. Es importante definir de manera clara y concisa en qué consiste el problema.
+Describir el problema: Una vez identificado el problema, debemos describirlo detalladamente. Esta descripción debe incluir información sobre las causas, las consecuencias y el impacto que tiene el problema en la empresa. Es fundamental que esta descripción sea clara y específica.
+Analizar el problema: Después de describir el problema, es necesario analizarlo. Para ello, podemos utilizar diferentes técnicas como el análisis FODA, el análisis PESTEL o el análisis de las 5 fuerzas de Porter. Estas técnicas nos permitirán tener una visión más amplia del problema y de cómo afecta a la empresa.
+Definir el objetivo: Una vez analizado el problema, es importante definir el objetivo que se quiere alcanzar. Este objetivo debe ser claro, específico y estar relacionado con la solución del problema identificado.
+Recuerda que un buen planteamiento del problema debe ser específico, medible, alcanzable, relevante y temporal1. Si sigues estos pasos, estarás en el camino correcto para encontrar una solución efectiva para los desafíos de tu empresa. ¡Mucho éxito!
+3¿Cuáles son los problemas de negocio que típicamente son resueltos con Data Science?
+En cuanto a los problemas empresariales que la Data Science puede resolver, aquí tienes algunos ejemplos:
+
+Datos más fiables y con una muestra mayor: La ciencia de datos permite mejorar la calidad de los datos y aumentar su volumen, lo que es fundamental para tomar decisiones informadas.
+Estudios de mercado: Analizar datos de mercado ayuda a comprender las necesidades y preferencias de los clientes, así como a identificar oportunidades de crecimiento.
+Análisis del servicio al cliente: La ciencia de datos puede ayudar a optimizar la atención al cliente, predecir problemas y personalizar la experiencia del usuario.
+Optimización del rendimiento de las máquinas: Mediante el análisis de datos, se pueden identificar patrones de funcionamiento y prevenir fallos en equipos y maquinaria.
+Reducción de costos: La ciencia de datos permite identificar áreas donde se pueden reducir gastos innecesarios o mejorar la eficiencia.
+En resumen, la Data Science es una herramienta poderosa para resolver problemas empresariales y aprovechar al máximo el potencial de los datos
+
